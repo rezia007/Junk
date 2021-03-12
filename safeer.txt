@@ -1,2 +1,4 @@
 he is a chicken lover(version1)
 he loves his class teacher (version1)
+
+he loves to watch video games (version2)
